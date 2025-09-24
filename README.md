@@ -1,4 +1,4 @@
 # code-demo
 This is my first git Repository
 <br>
-Author-Sabina Shrestha
+Author-Sabina Shrestha(Bachelor in Information Technology)
